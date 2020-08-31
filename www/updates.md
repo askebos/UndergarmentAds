@@ -1,0 +1,1 @@
+**31 August 2020:** Submission to _Journal of Marketing Management_ special issue
