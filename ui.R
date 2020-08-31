@@ -17,7 +17,7 @@ dashboardPage(
             menuItemOutput("filter_publications"),
             hr(),
             menuItem("About", tabName = "about", icon = icon("info")),
-            menuItem("Source code", icon = icon("code"), href = "https://github.com/"),
+            menuItem("Source code", icon = icon("code"), href = "https://github.com/askebos/UndergarmentAds"),
             menuItem("Companion", icon = icon("feather"), href = "https://www.jmmnews.com/presenting-marketing-differently/")
             
         )
